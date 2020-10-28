@@ -41,7 +41,6 @@ a:hover {
   max-width: 1024px;
   align-items: center;
   padding: 40px;
-  border: 1px solid blue;
 }
 
 .title {
@@ -152,7 +151,6 @@ label[for="query"] {
 }
 
 .stock-details {
-  border: 1px solid red;
   background-color: rgb(255, 255, 255);
   border-radius: 5px;
 }
@@ -162,7 +160,12 @@ label[for="query"] {
 }
 
 .stock-details-symbol {
+  padding-top: 2rem;
   margin-left: 4rem;
+}
+
+.news-content {
+  padding-bottom: 1rem;
 }
 
 .news-subtext {
