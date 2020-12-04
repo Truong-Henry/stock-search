@@ -10,3 +10,4 @@ https://stock-search.netlify.app/
   * Volume of stocks (1 Year)
   * Price of stocks (1 Year)
 ### News
+  * Show most recent news 
