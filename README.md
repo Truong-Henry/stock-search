@@ -1,9 +1,9 @@
 # Stock Search Application
 
-An application that allows you to search for any publically traded stock in the United States.
+An application that allows you to search for any publically traded stock in the United States
 
 ## Demo
-https://stock-search.netlify.app/
+View a demo [here](https://stock-search.netlify.app/)
 
 ## Features
 ### Summary
